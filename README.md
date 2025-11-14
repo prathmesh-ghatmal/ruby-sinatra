@@ -153,3 +153,15 @@ Features:
 * Use **screen/tmux** on Linux to keep the app running in background
 * Use **SQLite Browser** to inspect your database (`todos.db`)
 
+  Your AWS credentials have been activated for today for testing purposes.
+Please log in to your AWS account using the following link:
+
+🔗 https://vforesee.signin.aws.amazon.com/console
+
+Use the credentials provided in here:
+IAM username: 2401055
+Password: QjQ4[=%}K35_jn1[I5y=
+
+⚠️ Important:
+Do not create, modify, or delete any AWS resources
+
